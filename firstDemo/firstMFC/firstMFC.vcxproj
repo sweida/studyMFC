@@ -184,7 +184,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="CDLEtec.h" />
-    <ClInclude Include="CDLExtc.h" />
     <ClInclude Include="CDLShow.h" />
     <ClInclude Include="firstMFC.h" />
     <ClInclude Include="firstMFCDlg.h" />
@@ -194,7 +193,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CDLEtec.cpp" />
-    <ClCompile Include="CDLExtc.cpp" />
     <ClCompile Include="CDLShow.cpp" />
     <ClCompile Include="firstMFC.cpp" />
     <ClCompile Include="firstMFCDlg.cpp" />

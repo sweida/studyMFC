@@ -30,9 +30,6 @@
     <ClInclude Include="Resource.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="CDLExtc.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
     <ClInclude Include="CDLEtec.h">
       <Filter>头文件</Filter>
     </ClInclude>
@@ -48,9 +45,6 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="stdafx.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="CDLExtc.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="CDLEtec.cpp">
